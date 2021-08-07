@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 0.3.1
+_src_path: https://github.com/pawamoy/copier-poetry.git
+author_email: leandro.g.almeida@gmail.com
+author_fullname: Leandro G. Almeida
+author_username: lalmei
+copyright_date: '2020'
+copyright_holder: Leandro G. Almeida
+copyright_holder_email: leandro.g.almeida@gmail.com
+copyright_license: Apache License 2.0
+project_description: null
+project_name: jigsaw
+python_package_command_line_name: jigsaw
+python_package_distribution_name: jigsaw-python
+python_package_import_name: jigsaw
+repository_name: jigsaw
+repository_namespace: lalmei
+repository_provider: github.com
+use_precommit: true
